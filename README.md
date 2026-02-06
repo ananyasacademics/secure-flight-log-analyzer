@@ -4,8 +4,8 @@
 A privacy-first flight log analysis prototype that anonymizes sensitive identifiers and detects anomalous engine behavior using explainable methods.
 
 ## Demo
-- 📘 Google Colab (view-only): https://colab.research.google.com/drive/19z0Mz8ZWRl4THradNTVvMyupOWe7DEmT?usp=sharing
-- 💻 GitHub Notebook Preview: Secure_Flight_Log_Analyzer.ipynb
+- Google Colab (view-only): https://colab.research.google.com/drive/19z0Mz8ZWRl4THradNTVvMyupOWe7DEmT?usp=sharing
+- GitHub Notebook Preview: Secure_Flight_Log_Analyzer.ipynb
 
 ## Features
 - Anonymizes sensitive identifiers (pilot name → hashed ID)
